@@ -1,0 +1,5 @@
+amount,country,is_fraud
+100,US,0
+500,NG,1
+50,US,0
+1000,BR,1
